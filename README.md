@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/80150303/183289825-030530e3-e720-4fc0-b7c5-cbe1e98bda4f.png)
+
+
+
 ### Installation
 
 This is a step-by-step guide to install and build all the prerequisites for running the avoidance module on **Ubuntu 18.04** with *ROS Melodic* (includes Gazebo 9).
